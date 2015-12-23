@@ -1,2 +1,2 @@
 # MultiThreadDownload
-多线程实现断电续传下载
+多线程实现断点续传下载
